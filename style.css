@@ -1,0 +1,64 @@
+
+header {
+    text-align: center;
+    background-color: black;
+    
+}
+h1 {
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+    margin: 0;
+    margin-bottom: 20px;
+    font-size: 28px;
+}
+#contact-info {
+    width: 30%;
+}
+body {
+    padding: 0;
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    line-height: 150%;
+    color: black;
+    background: #efeee7;
+}
+h2 {
+    font-size: 24px;
+    margin: auto;
+    position: relative; left: 20px;
+    position: relative; top: -20px;
+    
+}
+h3 {
+    font-size: 24px;
+    margin: auto;
+}
+a {color: red;}
+
+.container {
+    width: 1024px;
+    margin: 0 auto; 
+}
+#main-bio, 
+#bio-image 
+{float: left;
+}
+
+#main-bio {
+    width: 60%;
+}
+#contact-info {
+    width:30%;
+    float: right;
+}
+#bio-image {
+    width: 200px;
+    height: 200px;
+    margin-left: 20px;
+}
+p {
+    position: relative; left: 20px;
+    position: relative; top: -20px
+}
